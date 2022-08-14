@@ -2,7 +2,7 @@
 - 👀 I’m interested in Sports, E-Sports and coding 
 - 🌱 I’m constantly learning 
 - 💞️ Pyhtoneer
-- 📫 renford.cohen@outlook.com
+- 📫 renford.cohenjr@gmail.com
 
 <!---
 RenDaCo/RenDaCo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
